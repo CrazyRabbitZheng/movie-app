@@ -1,0 +1,24 @@
+{
+    "movies": [
+        {
+        "name": "Inception",
+        "year": 2010,
+        "rating": 4.8
+        },
+        {
+        "name": "The Shawshank Redemption",
+        "year": 1994,
+        "rating": 4.9
+        },
+        {
+        "name": "The Godfather",
+        "year": 1972,
+        "rating": 4.7
+        },
+        {
+        "name": "Pulp Fiction",
+        "year": 1994,
+        "rating": 4.5
+        }
+    ]
+}
